@@ -1,5 +1,5 @@
-<h1 align="left">Olá, muito prazer! Me chamo Danilo Medeiros.</h1>
-<h3 align="leftr">Apaixonado por tecnologia e estudante com ênfase em Dados.</h3>
+<h1 align="left">Olá, muito prazer! Me chamo Danilo Medeiros. </h1>
+
 
 <div display=infline-flex align=center >
   
