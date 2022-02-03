@@ -6,6 +6,8 @@
 <p align="center">
 
 <a href=mailto:<nowiki>danilodejesusmedeiros@gmail.com?subject="link HTML">Clique aqui para nos enviar um e-mail!</a>
+
+<a href="mailto:email_que_recebe_as_mensagens@exemplo.com?Subject=Título%20da%20mensagem">Enviar email</a> 
 <a href="https://linkedin.com/in/linkedin.com/in/danilojmedeiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danilojmedeiros/" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/danilodejesusmedeiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/danilodejesusmedeiros/" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/danilojmedeiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/danilojmedeiros/" height="30" width="40" /></a> 
