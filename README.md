@@ -12,8 +12,9 @@
 
 
 <div display=flex-wrap align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilojmedeiros&show_icons=true&locale=en&layout=compact" alt="danilojmedeiros" 
-<p &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=danilojmedeiros&show_icons=true&locale=en" alt="danilojmedeiros"/></p>
+ 
+[<img height=180em src='https://github-readme-stats.vercel.app/api?username=danilojmedeiros&show_icons=true&count_private=true&theme=github_dark' alt='danilojmedeiros GitHub stats'>](https://github.com/anuraghazra/github-readme-stats)
+[<img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=danilojmedeiros&repo=danilojmedeiros/danilojmedeiros&layout=compact&theme=github_dark' alt='Top Langs'>](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
