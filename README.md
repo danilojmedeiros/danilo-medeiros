@@ -16,8 +16,8 @@
 
 
 <div display=flex-wrap align=center>
-[<img height=180em src='https://github-readme-stats.vercel.app/api?username=danilojmedeiros&show_icons=true&count_private=true&theme=github_dark' alt='danilojmedeiros GitHub   stats'>](https://github.com/danilojmedeiros/github-readme-stats)
-[<img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=danilojmedeiros&repo=danilojmedeiros/danilojmedeiros&layout=compact&theme=github_dark' alt='Top Langs'>](https://github.com/danilojmedeiros/github-readme-stats)
+[<img height=180em src='https://github-readme-stats.vercel.app/api?username=danilojmedeiros&show_icons=true&count_private=true&theme=github_dark' alt='danilojmedeiros GitHub   stats'>]
+[<img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=danilojmedeiros&repo=danilojmedeiros/danilojmedeiros&layout=compact&theme=github_dark' alt='Top Langs'>]
 
 </div>
 
