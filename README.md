@@ -1,4 +1,6 @@
-<h1 align="center">Olá, muito prazer. Danilo Medeiros, estudante e apaixonado por tecnologia!</h1>
+<h1 align="center">Olá, muito prazer! Me chamo Danilo Medeiros.</h1>
+<h3 align="center">Apaixonado por tecnologia e estudante com ênfase em Dados.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/g.dev/danilomedeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/danilomedeiros" height="30" width="40" /></a>
@@ -10,3 +12,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilojmedeiros&show_icons=true&locale=en&layout=compact" alt="danilojmedeiros" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danilojmedeiros&show_icons=true&locale=en" alt="danilojmedeiros" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilojmedeiros&" alt="danilojmedeiros" /></p>
+rc="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
